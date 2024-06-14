@@ -1,5 +1,5 @@
 {
-  "domain": "senseme-legacy",
+  "domain": "senseme_legacy",
   "name": "SenseME Legacy",
   "version": "2.2.5",
   "config_flow": true,
