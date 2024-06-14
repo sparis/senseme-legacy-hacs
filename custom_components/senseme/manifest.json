@@ -1,6 +1,6 @@
 {
   "domain": "senseme",
-  "name": "SenseME",
+  "name": "SenseME Legacy",
   "version": "2.2.5",
   "config_flow": true,
   "documentation": "https://www.github.com/mikelawrence/senseme-hacs",
